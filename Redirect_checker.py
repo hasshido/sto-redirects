@@ -14,7 +14,6 @@ def display_logo():
     """
     print(logo)
     print("Gets urls similarly to httpx and checks if there's any HTTP redirections to non-existant domains or inaccessible servers\n")
-    print("Gets urls similarly to httpx and checks if there's any HTTP redirections to non-existant domains or inaccessible servers\n")
 
 
 
